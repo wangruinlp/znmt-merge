@@ -1,6 +1,8 @@
 ## NMT decoding with recombination
 
-Hi, this is an implementation of the paper "Exploring Recombination for Efficient Decoding of Neural Machine Translation".
+Hi, this is an implementation of the paper "Exploring Recombination for Efficient Decoding of Neural Machine Translation" in EMNLP-2018.
+
+https://arxiv.org/abs/1808.08482
 
 ## Usage
 
